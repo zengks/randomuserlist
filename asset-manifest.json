@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d3891bc.chunk.css",
-    "main.js": "/static/js/main.8df6c563.chunk.js",
-    "main.js.map": "/static/js/main.8df6c563.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d8883636.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d8883636.js.map",
-    "static/js/2.b0b624e5.chunk.js": "/static/js/2.b0b624e5.chunk.js",
-    "static/js/2.b0b624e5.chunk.js.map": "/static/js/2.b0b624e5.chunk.js.map",
-    "static/js/3.dadca9a7.chunk.js": "/static/js/3.dadca9a7.chunk.js",
-    "static/js/3.dadca9a7.chunk.js.map": "/static/js/3.dadca9a7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8d3891bc.chunk.css.map": "/static/css/main.8d3891bc.chunk.css.map",
-    "static/js/2.b0b624e5.chunk.js.LICENSE.txt": "/static/js/2.b0b624e5.chunk.js.LICENSE.txt",
-    "static/media/female.dacba328.png": "/static/media/female.dacba328.png",
-    "static/media/male.42822c6b.png": "/static/media/male.42822c6b.png"
+    "main.css": "/randomuserlist/static/css/main.8d3891bc.chunk.css",
+    "main.js": "/randomuserlist/static/js/main.8df6c563.chunk.js",
+    "main.js.map": "/randomuserlist/static/js/main.8df6c563.chunk.js.map",
+    "runtime-main.js": "/randomuserlist/static/js/runtime-main.fc1283f3.js",
+    "runtime-main.js.map": "/randomuserlist/static/js/runtime-main.fc1283f3.js.map",
+    "static/js/2.b0b624e5.chunk.js": "/randomuserlist/static/js/2.b0b624e5.chunk.js",
+    "static/js/2.b0b624e5.chunk.js.map": "/randomuserlist/static/js/2.b0b624e5.chunk.js.map",
+    "static/js/3.dadca9a7.chunk.js": "/randomuserlist/static/js/3.dadca9a7.chunk.js",
+    "static/js/3.dadca9a7.chunk.js.map": "/randomuserlist/static/js/3.dadca9a7.chunk.js.map",
+    "index.html": "/randomuserlist/index.html",
+    "static/css/main.8d3891bc.chunk.css.map": "/randomuserlist/static/css/main.8d3891bc.chunk.css.map",
+    "static/js/2.b0b624e5.chunk.js.LICENSE.txt": "/randomuserlist/static/js/2.b0b624e5.chunk.js.LICENSE.txt",
+    "static/media/female.dacba328.png": "/randomuserlist/static/media/female.dacba328.png",
+    "static/media/male.42822c6b.png": "/randomuserlist/static/media/male.42822c6b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8883636.js",
+    "static/js/runtime-main.fc1283f3.js",
     "static/js/2.b0b624e5.chunk.js",
     "static/css/main.8d3891bc.chunk.css",
     "static/js/main.8df6c563.chunk.js"
